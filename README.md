@@ -1,16 +1,17 @@
 # my_cv
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Cette application, développée en Flutter, permet de consulter mon CV de manière intuitive. Elle comprend plusieurs sections :
 
-A few resources to get you started if this is your first Flutter project:
+Profil : Informations personnelles avec une photo de profil.
+Information : Détails personnels et professionnels.
+Expérience : Historique professionnel avec les postes occupés.
+Éducation : Diplômes et formations.
+Objectif : Objectifs de carrière.
+Compétence : Compétences professionnelles et techniques.
+Position : Localisation géographique.
+L'application est un projet scolaire visant à faciliter la gestion et la présentation de mon CV.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/181af77b-8a53-4e67-a62b-9d32e34e8808)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
